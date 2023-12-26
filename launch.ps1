@@ -1,0 +1,1 @@
+Start-Process launch.cmd -WindowStyle Hidden
